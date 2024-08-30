@@ -4,10 +4,10 @@
 
 ## 使用方式
 
-1. 购买[腾讯云域名][https://buy.cloud.tencent.com/domain]
-2. 打开[云解析DNS][https://console.cloud.tencent.com/cns]，在你的域名中添加一条记录
-3. 安装[python][https://www.python.org/]
-4. 安装[tencentcloud-sdk-python][https://github.com/TencentCloud/tencentcloud-sdk-python]，并获取安全凭证SecretID和SecretKey
+1. 购买[腾讯云域名](https://buy.cloud.tencent.com/domain)
+2. 打开[云解析DNS](https://console.cloud.tencent.com/cns)，在你的域名中添加一条记录
+3. 安装[python](https://www.python.org/)
+4. 安装[tencentcloud-sdk-python](https://github.com/TencentCloud/tencentcloud-sdk-python)，并获取安全凭证SecretID和SecretKey
 5. 下载本仓库源码：
 ```
 git clone https://github.com/SSSxCCC/tencent-dns-updater
